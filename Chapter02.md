@@ -10,4 +10,7 @@
 <p>
     You know as a kid, they would search in odd places and im no different. Since i was still so young and so i thought maybe she realised that i was following her and was going to
     try scare her so she would then hid somehwere in the room. So at the time i searched under the bed, inside the closet and even behind the door but i just couldnt find her anywhere. 
+    At that stage i thought it was a bit sure and i told myself that "i was sure i seen mum walk in this room". I had mixed feelings at this stage, feeling a bit conused and a bit scared.
+    I sunddenly realised that a full grown woman cant fit in either under the bed or even inside the closet, maybe behind the door but still i would have easily spotted her. So i started screaming 
+    around the house calling my mum.
 </p>
