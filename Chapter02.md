@@ -8,5 +8,6 @@
 </p>
 
 <p>
-    You know as a kid, they would search in odd places and im no different.
+    You know as a kid, they would search in odd places and im no different. Since i was still so young and so i thought maybe she realised that i was following her and was going to
+    try scare her so she would then hid somehwere in the room. So at the time i searched under the bed, inside the closet and even behind the door but i just couldnt find her anywhere. 
 </p>
