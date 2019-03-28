@@ -10,7 +10,8 @@
 </P>
 
 <p>
-    It was just me and my mom in the house by this time as my older sister was still at school and my dad was still at work so it was a big puzzle who or what I followed that day.
+    It was just me and my mum in the house at the time as my other twin and my younger brother was still at school and my dad was still at work, so this was a big puzzle for me.
+    who or what i followed that day remains a mistery to me!
 </p>
 
 
