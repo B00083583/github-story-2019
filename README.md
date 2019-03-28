@@ -2,11 +2,11 @@
 
 # Title: Spring Mystery
 
-## Chapter 1
+## Old Memories
 [Chapter One](Chapter01.md)
-## Chapter 2 
+## Following...
 [Chapter Two](Chapter02.md)
-## Chapter 3
+## Mystery woman 
 [Chapter Three](Chapter03.md)
 
 Link to my Github Story Page ---> [Github Story Page]https://b00083583.github.io/github-story-2019/
