@@ -2,7 +2,7 @@
 
 #**_Title: Spring Mystery_**
 
-##Chapters
+## Chapters
 
 ## **_Old Memories_**
 [Chapter One](Chapter01.md)
@@ -13,4 +13,4 @@
 ## **_Mystery woman_**
 [Chapter Three](Chapter03.md)
 
-Link to my Github Story Page ---> [Github Story Page]https://b00083583.github.io/github-story-2019/
+Link to my Github Story Page ---> [Github Story Page](https://b00083583.github.io/github-story-2019/)
