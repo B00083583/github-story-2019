@@ -1,4 +1,6 @@
+[Main Page](https://github.com/B00083583/github-story-2019) | [Previous Chapter](Chapter01.md) | [Next Chapter](Chapter03.md)
 
+<h1>Following...</h1>
 
 <p>
     So our house is quite big back in my country with 5 bedroom, so its quite hard to find someone find someone unless you sneaky follow them.

@@ -1,12 +1,14 @@
 # github-story-2019
 
-# Title: Spring Mystery
+#**_Title: Spring Mystery_**
 
-## Old Memories
+##Chapters
+
+##**_Old Memories_**
 [Chapter One](Chapter01.md)
-## Following...
+##**_Following..._**
 [Chapter Two](Chapter02.md)
-## Mystery woman 
+##**_Mystery woman_**
 [Chapter Three](Chapter03.md)
 
 Link to my Github Story Page ---> [Github Story Page]https://b00083583.github.io/github-story-2019/
