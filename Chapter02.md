@@ -1,4 +1,4 @@
-[Main Page](https://b00083583.github.io/github-story-2019/) | [Previous Chapter](Chapter01.md) | [Next Chapter](Chapter03.md)
+[Main Page](https://github.com/B00083583/github-story-2019) | [Previous Chapter](Chapter01.md) | [Next Chapter](Chapter03.md)
 
 <h1>Following...</h1>
 
